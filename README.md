@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--
+Inspired by https://github.com/YazeedAlKhalaf/YazeedAlKhalaf/blob/master/README.md
+Find icons to use here https://github.com/devicons/devicon/tree/master/icons
+-->
