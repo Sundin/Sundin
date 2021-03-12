@@ -25,7 +25,7 @@ Fullstack software engineer experienced in JavaScript, Java, Kotlin, Swift, Flut
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/tree/master/icons/sass" title="Sass"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"></code>
 
 ### Platforms
 
