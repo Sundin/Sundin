@@ -9,6 +9,20 @@ Fullstack developer experienced in JavaScript, Java, Kotlin, Swift, Flutter/Dart
  
 [Follow my blog!](https://sundin.github.io/)
 
+### Languages & Tools
+
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"></code>
+
+
 <!--
 **Sundin/Sundin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
