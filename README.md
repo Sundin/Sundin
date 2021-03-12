@@ -9,19 +9,25 @@ Fullstack software engineer experienced in JavaScript, Java, Kotlin, Swift, Flut
  
 [Follow my blog!](https://sundin.github.io/)
 
-### Languages & Tools
+### Programming languages
 
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"></code>
 
+### Platforms
+
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"></code>
+
+### Tools
+
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber"></code>
 
 <!--
 **Sundin/Sundin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
