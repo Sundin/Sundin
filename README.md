@@ -5,7 +5,7 @@ Fullstack developer experienced in JavaScript, Java, Kotlin, Swift, Flutter/Dart
 - 🔭 I’m currently working on Volkswagen's new electrical vehicle platform.
 - 🌱 I’m currently learning Flutter.
  
-[![Sundin's github stats](https://github-readme-stats.vercel.app/api?username=Sundin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Sundin's github stats](https://github-readme-stats.vercel.app/api?username=Sundin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  
 [Follow my blog!](https://sundin.github.io/)
 
