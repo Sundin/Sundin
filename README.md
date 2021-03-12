@@ -15,7 +15,7 @@ I have been programming since 2003.
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/develop/icons/dart/dart-original.svg" title="Dart"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust"></code>
@@ -39,6 +39,7 @@ I have been programming since 2003.
 
 ### Frameworks
 
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Node Express"></code>
