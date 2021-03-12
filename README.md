@@ -45,16 +45,19 @@ Fullstack software engineer experienced in JavaScript, Java, Kotlin, Swift, Flut
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue"></code>
 
+### Databases
+
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"></code>
+
 ### Tools
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-plain.svg" title="Gatling"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce"></code>
