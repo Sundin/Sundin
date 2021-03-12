@@ -19,15 +19,20 @@ Fullstack software engineer experienced in JavaScript, Java, Kotlin, Swift, Flut
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET"></code>
 
 ### Platforms
 
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"></code>
 
-### Tools
+### Tools & Frameworks
 
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Node Express"></code>
 
 <!--
 **Sundin/Sundin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
