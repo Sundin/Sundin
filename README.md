@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fullstack developer experienced in JavaScript, Java, Kotlin, Swift, Flutter/Dart, Python etc.
+Fullstack software engineer experienced in JavaScript, Java, Kotlin, Swift, Flutter/Dart, Python etc.
 
 - 🔭 I’m currently working on Volkswagen's new electrical vehicle platform.
 - 🌱 I’m currently learning Flutter.
