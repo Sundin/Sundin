@@ -6,8 +6,6 @@ I have been programming since 2003.
 - 🔭 I’m currently working on Volkswagen's new electrical vehicle platform.
 - 🌱 I’m currently learning Flutter.
  
-![Sundin's github stats](https://github-readme-stats.vercel.app/api?username=Sundin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
- 
 [Follow my blog!](https://sundin.github.io/)
 
 ### Programming languages
@@ -64,6 +62,7 @@ I have been programming since 2003.
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce"></code>
 
+![Sundin's github stats](https://github-readme-stats.vercel.app/api?username=Sundin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **Sundin/Sundin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
