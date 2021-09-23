@@ -3,8 +3,11 @@
 Fullstack software engineer experienced in JavaScript, Java, Kotlin, Swift, Flutter/Dart, Python etc.
 I have been programming since 2003.
 
-- 🔭 I’m currently working on Volkswagen's new electrical vehicle platform.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on a top secret project.
+- 🚙 Before that I was involved in software security for Volkswagen's new electrical vehicle platform.
+- ⚔️ On my spare time I'm writing an RPG app in Flutter (it's great!).
+- 🌱 I’m currently learning Angular.
+- ⚡ I also run a record label and play in several heavy metal bands.
  
 [Follow my blog!](https://sundin.github.io/)
 
@@ -67,22 +70,6 @@ I have been programming since 2003.
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce"></code>
 
 ![Sundin's github stats](https://github-readme-stats.vercel.app/api?username=Sundin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<!--
-**Sundin/Sundin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <!--
 Inspired by https://github.com/YazeedAlKhalaf/YazeedAlKhalaf/blob/master/README.md
