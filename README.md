@@ -34,6 +34,8 @@ I have been programming since 2003.
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"></code>
+
 
 ### Frameworks
 
@@ -44,6 +46,8 @@ I have been programming since 2003.
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"></code>
+
 
 ### Databases
 
