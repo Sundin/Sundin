@@ -3,13 +3,10 @@
 Fullstack software engineer experienced in JavaScript, Java, Kotlin, Swift, Flutter/Dart, Python etc.
 I have been programming since 2003.
 
-- 🔭 I’m currently working on a top secret project.
-- 🚙 Before that I was involved in software security for Volkswagen's new electrical vehicle platform.
-- ⚔️ On my spare time I'm writing an RPG app in Flutter (it's great!).
-- 🌱 I’m currently learning Angular.
-- ⚡ I also run a record label and play in several heavy metal bands.
- 
-[Follow my blog!](https://sundin.github.io/)
+- ⚔️ I'm currently working on an [RPG app](https://www.sound-realms.com/) in Flutter (it's great!).
+- 📰 I occasionally write blog posts on my [technical blog](https://sundin.github.io/)
+- 🖌️ I love to draw and you can view my art [here](https://www.ggsundin.art).
+- ⚡ I also run a [record label](https://www.jawbreaker.se/) and play in several [heavy](https://www.armory.se/) [metal](https://www.tyrannosatan.se/) [bands](https://www.metal-archives.com/bands/Stormdeath/3540317214).
 
 ### Programming languages
 
